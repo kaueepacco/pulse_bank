@@ -2,7 +2,7 @@
 
 Aplicacao web que simula um app bancario simples com login mock, dashboard financeiro e transferencias com validacao.
 
-Hospedagem `Vercel`: https://pulse-bank-ten.vercel.app/login
+Hospedagem `Vercel`: https://pulse-bank-ten.vercel.app
 
 ## Stack
 
