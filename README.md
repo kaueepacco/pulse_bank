@@ -34,9 +34,15 @@ npm run dev
 
 ## Observacoes
 
-- O projeto nao usa backend real neste momento.
+- O projeto nao usa backend real neste momento, focando exclusivamente no desenvolvimento front-end.
 - Os dados sao simulados no front-end e persistidos no navegador com `localStorage`.
 - Mudancas em `src/lib/mockData.js` so aparecem automaticamente quando ainda nao existe estado salvo no navegador.
+
+## Melhorias Futuras
+
+- Menu bar para navegação interna da aplicação
+- Listagem de contatos frequentes/salvos para futuras transações
+- Aba para visualização e edição de detalhes da conta
 
 ## Build de producao
 
